@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mulero Reuben Ayobami
+# 👋 Hi there, I'm Reuben Ayobami Mulero
 ### AI Engineer & Full Stack Developer | Winner of the 2025 Awarri Developer Challenge
 
 Innovative AI Engineer with a strong foundation in Python and React. I specialize in building award-winning AI solutions, including **Multi-Agent Systems**, **Agentic RAG**, and legal tech assistants designed to solve real-world problems in Nigeria.
